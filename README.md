@@ -79,3 +79,11 @@ forced alignment:
 > aeneas automatically generates a synchronization map between a list of text fragments and an audio file containing the narration of the text. In computer science this task is known as (automatically computing a) forced alignment.
 - https://github.com/topics/forced-alignment
 - https://github.com/readbeyond/aeneas
+
+kitten tts:
+- https://github.com/KittenML/KittenTTS
+- https://huggingface.co/KittenML/kitten-tts-nano-0.2
+- https://news.ycombinator.com/item?id=44807868
+
+text-to-speach unified interface:
+- https://github.com/willwade/tts-wrapper

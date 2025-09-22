@@ -9,6 +9,10 @@ from kokoro_onnx.tokenizer import Tokenizer
 print("Loading model...")
 kokoro = Kokoro("data/kokoro-v1.0.onnx", "data/voices-v1.0.bin")
 
+# phonemizer.backend.EspeakBackend(
+#     language="en-us", preserve_punctuation=True, with_stress=True
+# )
+
 
 def process(text, lang, voice):
     tokenizer = Tokenizer()
