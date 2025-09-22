@@ -32,8 +32,7 @@ lang = "en-gb"
 voice = "bf_emma"
 process(text, lang, voice)
 
-# text = "Un arcoíris o arco iris es un fenómeno óptico y meteorológico que consiste en la aparición en el cielo de un arco de luz multicolor."
-text = "En su novela Contacto, Sagan expone el absurdo de tanto espacio vacío. «Pero, ¿en qué punto damos por hecho que al universo le apetece que haya más vida?», le responde Miguel Ángel Sabadell, licenciado en Astrofísica por la Universidad Complutense de Madrid, y doctor en Física Teórica por la Universidad de Zaragoza."
+text = "Un arcoíris o arco iris es un fenómeno óptico y meteorológico que consiste en la aparición en el cielo de un arco de luz multicolor."
 lang = "es"
 voice = "em_alex"
 process(text, lang, voice)

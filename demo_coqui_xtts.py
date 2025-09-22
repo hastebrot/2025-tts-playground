@@ -27,7 +27,7 @@ lang = "en"
 voice = "Claribel Dervla"
 process(text, lang, voice)
 
-text = "Un arcoíris o arco iris es un fenómeno óptico y meteorológico que consiste en la aparición en el cielo de un arco de luz multicolor."  # Change to the text you want to generate
+text = "Un arcoíris o arco iris es un fenómeno óptico y meteorológico que consiste en la aparición en el cielo de un arco de luz multicolor."
 lang = "es"
 voice = "Uta Obando"
 process(text, lang, voice)
