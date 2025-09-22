@@ -57,6 +57,11 @@ g2p:
 > Grapheme-to-Phoneme transductions that preserve input and output indices, and support cross-lingual g2p! 
 - https://github.com/roedoejet/g2p
 - Pine, et al (2022): "Gi2Pi Rule-based, index-preserving grapheme-to-phoneme transformations"
+- https://github.com/dmort27/epitran
+
+gruut:
+> A tokenizer, text cleaner, and phonemizer for many human languages.
+- https://github.com/rhasspy/gruut
 
 kokoro:
 - https://github.com/hexgrad/kokoro
